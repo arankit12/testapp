@@ -19,7 +19,7 @@ CI/CD tools is important to help a team to automate their testing and deployment
 ## The CI/CD Stack
 ![](img/cicd-stack.png)
 
-CI/CD Tools used in this repository:
+Tools used in this repository:
 - **GitHub Actions** performs the build and test (CI)
 - **AWS CodeDeploy:** automates the deployment process to EC2 (CD)
 
